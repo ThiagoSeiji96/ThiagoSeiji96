@@ -1,16 +1,13 @@
-### Hi there 👋
+### About Me
+Hey there! I’m Thiago Seiji I. Rozner, 26 years old, currently living in Brazil. 
 
-<!--
-**ThiagoSeiji96/ThiagoSeiji96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a technology graduate student in Analysis and Development Systems at Impacta University in São Paulo.
 
-Here are some ideas to get you started:
+### Technologies
+- Front-end Development with HTML, CSS, Javascript, React.
+- Web Design with Elementor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Contact Me
+- <a href="(https://www.linkedin.com/in/thiago-rozner-272055115/">Linkedin</a>
+- <a href="mailto:thiagorozner@gmail.com">E-mail</a>
+</div>

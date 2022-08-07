@@ -8,6 +8,6 @@ I am a technology graduate student in Analysis and Development Systems at Impact
 - Web Design with Elementor.
 
 ###  Contact Me
-- <a href="(https://www.linkedin.com/in/thiago-rozner-272055115/">Linkedin</a>
+- <a href="https://www.linkedin.com/in/thiago-rozner-272055115/">Linkedin</a>
 - <a href="mailto:thiagorozner@gmail.com">E-mail</a>
 </div>

@@ -4,7 +4,8 @@ Hey there! I’m Thiago Seiji I. Rozner, 26 years old, currently living in Brazi
 I am a technology graduate student in Analysis and Development Systems at Impacta University in São Paulo.
 
 ### Technologies
-- Front-end Development with HTML, CSS, Javascript, React Native.
+- Front-end Development with HTML, CSS, Javascript.
+- Learning Python, React, React JS.
 - Web Design with Elementor.
 
 ###  Contact Me

@@ -5,7 +5,7 @@ I am a technology graduate student in Analysis and Development Systems at Impact
 
 ### Technologies
 - Front-end Development with HTML, CSS, Javascript.
-- Learning Python, React, React JS.
+- Back-end Development with C# Asp.Net, MVC Razor, SQL Server.
 - Web Design with Elementor.
 
 ###  Contact Me

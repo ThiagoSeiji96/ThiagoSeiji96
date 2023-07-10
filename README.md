@@ -16,13 +16,13 @@ Atualmente sou estudante do cursos de análise e desenvolvimento de sistemas pel
 ------------------------------------------------------------------------------------------------------------------
 
 ### About Me
-Hey there! I’m Thiago Seiji I. Rozner, 26 years old, currently living in Brazil. 
+Hey there! I’m Thiago Seiji I. Rozner, 27 years old, currently living in Brazil. 
 
 I am a technology graduate student in Analysis and Development Systems at Impacta University in São Paulo.
 
 ### Technologies
 - Front-end Development with HTML, CSS, Javascript, Typescript, JQuery, Angular(Ionic).
-- Back-end Development with .Net, SQL Server, Angular.
+- Back-end Development with ASP.NET Core, SQL Server.
 - Web Design with Elementor.
 
 ###  Contact Me

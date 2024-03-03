@@ -4,7 +4,7 @@ Olá! Me chamo Thiago Seiji I. Rozner, 27 anos, atualmente vivendo no Brasil.
 Atualmente sou estudante do cursos de análise e desenvolvimento de sistemas pela Faculdade Impacta em São Paulo.
 
 ### Tecnologias
-- Desenvolvimento Front-end com HTML, CSS, Javascript, Typescript, JQuery, Angular(Ionic).
+- Desenvolvimento Front-end com HTML, CSS, Javascript, Typescript, JQuery, Angular.
 - Desenvolvimento Back-end com ASP.NET Core, SQL Server.
 - Certificado Azure AZ-900.
 - Web Design com Elementor.
